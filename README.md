@@ -19,16 +19,17 @@ Responsibilities:
 8. Generated BOM, Gerber files, and complete manufacturing-ready design packages
 
 
+
 Tools & Technologies:
 
-Eagle PCB Design
+1. Eagle PCB Design
 
-Schematic Capture
+2. Schematic Capture
 
-Multi-layer PCB Layout
+3. Multi-layer PCB Layout
 
-Mixed-Signal Design
+4. Mixed-Signal Design
 
-EMI/EMC Practices
+5. EMI/EMC Practices
 
-BOM & Gerber Generation
+6. BOM & Gerber Generation
